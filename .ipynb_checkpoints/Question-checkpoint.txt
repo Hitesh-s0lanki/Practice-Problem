@@ -1,0 +1,43 @@
+Problem Statement Difficulty: EASY
+
+Problem Statement: Amazon Product Review Analysis using RNN 
+
+Problem Statement Description: Problem Description: Your task is to develop a Recurrent Neural Network (RNN)-based AI system that can analyze product reviews on Amazon and predict the rating based on the review text. The system should be able to understand the sentiment and content of the review and estimate the rating that corresponds to the reviewer's opinion.
+Input: Amazon product reviews dataset. The dataset would include the review text and possibly other metadata about the review.
+
+Output: Predicted product rating based on the review text. The system should be able to estimate the rating (usually on a 1-5 scale) that corresponds to the sentiment and content of the review.
+
+Rules: Participants can use existing RNN architectures or other suitable machine learning models to develop the system. However, they should justify their choice of models and explain how these contribute to the effectiveness of the system. They should demonstrate the system's ability to accurately predict product ratings based on a wide variety of Amazon reviews.
+
+Reference: The reference is a GeeksforGeeks tutorial demonstrating how to use a Recurrent Neural Network (RNN) for sentiment analysis on Amazon product reviews. Participants can use this tutorial to understand the concept, learn how to implement an RNN for sentiment analysis, and use the provided code as a starting point for their own solution.
+https://www.geeksforgeeks.org/amazon-product-review-sentiment-analysis-using-rnn/
+
+
+Problem Statement Difficulty: MODERATE
+
+Problem Statement: LinkedIn Sentiment Analysis of any LinkedIn Page or Post 
+
+Problem Statement Description: Problem Description: Your task is to develop an AI system capable of performing sentiment analysis on the posts and comments of any given LinkedIn page or post. The system should be able to analyze the text of the posts and comments, categorize them as positive, negative, or neutral, and provide an overall sentiment distribution.
+Input: Posts and comments from a specific LinkedIn page or post. The system should be designed to handle a large volume of text and diverse language use, including professional jargon, abbreviations, and emojis.
+
+Output: Percentage distribution of positive, negative, and neutral sentiments among the analyzed posts and comments. The system should provide a clear breakdown of the sentiment distribution, offering insights into the overall sentiment associated with the given LinkedIn page or post.
+
+Rules: Participants can use existing sentiment analysis algorithms to develop the system. However, they should justify their choice of algorithms and explain how these contribute to the effectiveness of the system. They should demonstrate the system's ability to accurately analyze sentiment in a wide variety of LinkedIn posts and comments.
+
+
+Problem Statement Difficulty: HARD
+
+Problem Statement: Generate a Branding assets/material 
+
+Problem Statement Description: Problem Description: Your task is to develop an AI-based system capable of creating branding assets/materials. The system should be able to accept a variety of inputs, including a brand's archetype, keywords related to the brand, target audience information, and the brand's vision and mission statements. Based on these inputs, the system should generate key branding assets such as a logo, a color palette, visiting card design, and letterhead design.
+Input: The system should be designed to accept the following inputs:
+Brand Archetype: The brand's personality or identity type.
+Keywords: Relevant keywords that are associated with the brand.
+Target Audience: Demographic and psychographic information about the brand's target audience.
+Vision and Mission: The brand's vision and mission statements, also known as the "why" statement.
+Output: Based on the provided inputs, the system should generate the following outputs:
+Logo: A unique and visually appealing logo that represents the brand.
+Color Palette: A set of colors that align with the brand's personality and appeal to its target audience.
+Visiting Card Design: A professional and aesthetic design for a business or visiting card.
+Letterhead Design: A design for a letterhead that incorporates the brand's logo, color palette, and other branding elements.
+Rules: Participants are allowed to use existing Generative AI tools to develop the system. However, they should justify their choice of tools and explain how these tools contribute to the effectiveness of the system.
